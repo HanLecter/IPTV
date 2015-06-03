@@ -1,0 +1,95 @@
+#EXTM3U
+#EXTINF:0, ATV+
+rtmp://195.228.75.97/atvliveedge/_definst_/atvstream_2_aac
+#EXTINF:0,B92 TV
+http://stream.b92.net:7999/tv-b92.ogg
+#EXTINF:0,HEMA TV mms
+mms://77.238.209.50:1234
+#EXTINF:0,KANAL 21 mms
+mms://62.162.58.55/TVkanal21
+#EXTINF:0,mms 24 vesti mms
+mms://62.162.58.55/24vesti
+#EXTINF:0,Novosadska TV
+http://176.106.121.32:8080/
+#EXTINF:0,Novosadska TV mms
+mms://176.106.121.32:8080/
+#EXTINF:0,Pink 2
+http://str108.setplex.net/fastv_2psh/Pink2global_rly_greece_109/BratuMarian.m3u8
+#EXTINF:0,Pink 3
+http://str108.setplex.net/fastv_2psh/Pink3global_rly_greece_109/BratuMarian.m3u8
+#EXTINF:0,Pink Family
+http://str108.setplex.net/fastv_2psh/PinkFamilyglobal_rly_greece_103/BratuMarian.m3u8
+#EXTINF:0,Pink Folk 2
+http://str108.setplex.net/fastv_2psh/PinkFolk2global_rly_greece_103/BratuMarian.m3u8
+#EXTINF:0,Pink Horror
+http://str108.setplex.net/fastv_2psh/PinkHorrorglobal_rly_greece_103/balkansatnet.m3u8
+#EXTINF:0,Pink Kids
+http://str108.setplex.net/fastv_2psh/PinkKidsglobal_rly_greece_103/BratuMarian.m3u8
+#EXTINF:0,Pink Live
+http://str108.setplex.net/fastv_2psh/PinkLiveglobal_rly_greece_103/BratuMarian.m3u8
+#EXTINF:0,Pink Movies
+http://str108.setplex.net/fastv_2psh/PinkMoviesglobal_rly_greece_109/BratuMarian.m3u8
+#EXTINF:0,Pink Music
+http://str108.setplex.net/fastv_2psh/PinkMusicglobal_rly_greece_103/BratuMarian.m3u8
+#EXTINF:0,Pink Music 3
+http://str108.setplex.net/fastv_2psh/PinkMusic3global_rly_greece_103/BratuMarian.m3u8
+#EXTINF:0,PTC rtsp
+rtsp://195.252.113.40/rts
+#EXTINF:0,RTCG SAT rtsp
+rtsp://beotelmedia.beotel.net/tvcg
+#EXTINF:0,Rts Sat rtsp
+rtsp://195.252.113.43/rts
+EXTINF:-1 - RTV Panonija
+http://212.200.238.110:8080
+#EXTINF:0,SONCE
+http://92.53.27.201:10000/
+#EXTINF:0,TV CG mms
+mms://beotelmedia.beotel.net/tvcg
+#EXTINF:0,TV Osijek mms
+mms://89.201.164.181/stv
+#EXTINF:0,TVCG MONTENEGRO mms
+mms://195.252.114.172/tvcg
+#EXTINF:0,B92
+http://4.31.30.135:1935/st3fstv/9ios_B92_4523784/playlist.m3u8
+#EXTINF:0,CETV
+http://213.81.153.221:8080/cetv
+#EXTINF:0,Hronka
+http://213.81.153.221:8080/hronka
+#EXTINF:0,Karpaty
+http://213.81.153.221:8080/karpaty
+#EXTINF:0,KCN SVET + 3
+http://4.31.30.135:1935/st3fstv/19ios_SVETPLUS_2547871/playlist.m3u8
+#EXTINF:0,Kezmarok
+http://213.81.153.221:8080/kezmarok
+#EXTINF:0,MCBox
+http://213.81.153.221:8080/nasa
+#EXTINF:0,OBN
+http://4.31.30.135:1935/st3fstv/3ios_OBN_1237865/playlist.m3u8
+#EXTINF:0,OTV VALENTINO
+http://4.31.30.135:1935/st3fstv/20ios_VALENTINO_4584512/playlist.m3u8
+#EXTINF:0,RTV KREA
+http://213.81.153.221:8080/galanta
+#EXTINF:0,Ruzinov
+http://213.81.153.221:8080/ruzinov
+#EXTINF:0,STUDENT TELEVIZIJA
+rtmp://213.202.73.202/iskon/studentska_b3.stream
+#EXTINF:0,STUDIO B mms
+mms://beotelmedia.beotel.net/studiob
+#EXTINF:0,Trnava
+http://213.81.153.221:8080/trnava
+#EXTINF:0,Konyha TV
+rtmp://91.82.85.44/live/konyhatv
+#EXTINF:0,RTS satelit
+mms://195.252.113.38:80/rts?MSWMExt=.asf
+#EXTINF:-1 - RTV JUG
+rtmp://84.20.77.50/live//livestream2
+#EXTINF:0,Slager_TV_CeskaSlovenskaVLC
+http://92.62.234.221:10000
+#EXTINF:0,STUDIO B_Serbia
+rtsp://beotelmedia.beotel.net/studiob
+#EXTINF:0,STUDIO B_Serbia mms
+mms://195.252.114.172/studiob
+#EXTINF:0,stv folk
+rtmp://str103.setplex.net:1935/228/stv_folk
+#EXTINF:0,TVCG mms
+mms://195.252.114.172/tvcg
