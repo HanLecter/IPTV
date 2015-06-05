@@ -1,21 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Panamericana TV" tvg-name="Panamericana TV" tvg-logo="Panamericana TV.png" tvg-shift="5" group-title="Español",Panamericana TV - Perú
-http://m.iblups.com:1935/lives/ptv1/playlist.m3u8?
-#EXTINF:-1 tvg-id="RBC" tvg-name="RBC" tvg-logo="RBC HD.png" tvg-shift="5" group-title="Español",RBC HD - Perú
+#EXTINF:-1 tvg-id="Panamericana TV" tvg-name="Panamericana TV" tvg-logo="Panamericana TV.png" tvg-shift="5" group-title="EspaÃ±ol",Panamericana TV - PerÃº
+http://live.mvdigital.net:1935/live8/livestream1.sdp/playlist.m3u8?
+#EXTINF:-1 tvg-id="RBC" tvg-name="RBC" tvg-logo="RBC HD.png" tvg-shift="5" group-title="EspaÃ±ol",RBC HD - PerÃº
 rtmp://184.154.28.210:1935/rbcsatelital-hd/rbcsatelital-hd
-#EXTINF:-1 tvg-id="RBC" tvg-name="RBC" tvg-logo="RBC.png" tvg-shift="5" group-title="Español",RBC - Perú
+#EXTINF:-1 tvg-id="RBC" tvg-name="RBC" tvg-logo="RBC.png" tvg-shift="5" group-title="EspaÃ±ol",RBC - PerÃº
 rtmp://184.154.28.210:1935/rbcsatelital/rbcsatelital
-#EXTINF:0 tvg-id="TV Perú" tvg-name="TV Perú" tvg-logo="TV Peru.png" tvg-shift="5" group-title="Español",TV Perú
+#EXTINF:0 tvg-id="TV PerÃº" tvg-name="TV PerÃº" tvg-logo="TV Peru.png" tvg-shift="5" group-title="EspaÃ±ol",TV PerÃº
 http://iphone-streaming.ustream.tv/ustreamVideo/17419715/streams/live/playlist.m3u8
-#EXTINF:0 tvg-id="Willax" tvg-name="Willax" tvg-logo="Willax.png" tvg-shift="5" group-title="Español",Willax - Perú
+#EXTINF:0 tvg-id="Willax" tvg-name="Willax" tvg-logo="Willax.png" tvg-shift="5" group-title="EspaÃ±ol",Willax - PerÃº
 rtmp://willax.mediastream.pe/vv_willax playpath=livestream swfUrl=http://monitor.mediastream.pe/MStreamLive.swf?v=qtnjVOvh live=1 pageUrl=http://willax.tv/
-#EXTINF:0 tvg-id="América TV" tvg-name="América TV" tvg-logo="América TV.png" tvg-shift="5" group-title="Español",América TV
+#EXTINF:0 tvg-id="AmÃ©rica TV" tvg-name="AmÃ©rica TV" tvg-logo="AmÃ©rica TV.png" tvg-shift="5" group-title="EspaÃ±ol",AmÃ©rica TV
 http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/index_564_av-p.m3u8
-#EXTINF:0 tvg-id="Latina" tvg-name="Latina" tvg-logo="Latina.png" tvg-shift="5" group-title="Español",Latina - Perú
+#EXTINF:0 tvg-id="Latina" tvg-name="Latina" tvg-logo="Latina.png" tvg-shift="5" group-title="EspaÃ±ol",Latina - PerÃº
 http://ooyalahd2-f.akamaihd.net/i/latinalim_delivery@128959/index_282_av-p.m3u8
-#EXTINF:0 tvg-id="ATV" tvg-name="ATV" tvg-logo="ATV.png" tvg-shift="5" group-title="Español",ATV - Perú
+#EXTINF:0 tvg-id="ATV" tvg-name="ATV" tvg-logo="ATV.png" tvg-shift="5" group-title="EspaÃ±ol",ATV - PerÃº
 http://edge-21-us.edge.mdstrm.com/live-stream/_definst_/smil:c23b8a0a21d215482b4c2703e47f675a/chunklist_b1500000.m3u8
-#EXTINF:0 tvg-id="CMD" tvg-name="CMD" tvg-logo="CMD.png" tvg-shift="5" group-title="Español",CMD - Perú
+#EXTINF:0 tvg-id="CMD" tvg-name="CMD" tvg-logo="CMD.png" tvg-shift="5" group-title="EspaÃ±ol",CMD - PerÃº
 http://live.mvdigital.net:1935/live5/livestream1.sdp/playlist.m3u8#neotv
 
 
@@ -25,3 +25,5 @@ http://streaming.gruporpp.net:1935/rpp02live-live/streamST9RD/playlist.m3u8
 http://streaming.gruporpp.net:1935/rpp02live-live/streamOXIRD/playlist.m3u8
 #EXTINF:-1 tvg-logo="RPP.png" group-title="Radio",Radio RPP
 rtmp://rpplivefs.fplive.net/rpp02live-live/streamRPPRD
+#EXTINF:-1 tvg-logo="JR.png" group-title="Radio",Radio JR
+http://99.198.110.162:8038/
